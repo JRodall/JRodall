@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JRodall
 - 👀 I’m interested in: improving my career, creating stuff, fixing stuff, 
-- 🌱 I’m currently learning: Python, Kothlin and Android
+- 🌱 I’m currently learning: Python, Kothlin Android and Scratch
 - 💞️ I’m looking to collaborate on: Game and App development
 - 📫 How to reach me ... not ready yet 
 
